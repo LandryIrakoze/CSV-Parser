@@ -1,0 +1,6 @@
+{
+    "pre": [
+        "Note: csv_parsing.py and data_organization.py are dependencies of main.py"
+    ],
+    "run": "python3 main.py"
+}
